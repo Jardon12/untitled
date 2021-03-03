@@ -1,0 +1,1 @@
+print("the result of n is\n", 6*7)
